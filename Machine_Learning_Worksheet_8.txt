@@ -1,0 +1,23 @@
+Question Number, Correct Option, Answer
+
+1> c, Є is the error which is introduced because there may be some predictor variables 
+      apart from the given variable which are effecting the response variable.
+
+2> a, It covers up the errors introduced because of the variables which are not present
+      in the given predictors set X but they are influencing the response variable.
+
+3> a,d
+
+4> c, To predict the stock price of a company based on the previous stocks prices.
+
+5> c, The random error is independent of the curve to be used or fit of the curve. 
+
+6> b, Least Squares Method
+
+7> a,b
+
+8> b, Polynomial function of AGE with degree>1
+
+9> a, b
+
+10> a,b
